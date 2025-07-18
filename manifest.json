@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "C++ Template Finder",
+  "version": "1.0",
+  "description": "Search and copy C++ algorithm templates quickly",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icons8-google-code-16.png",
+      "48": "icons/icons8-google-code-48.png",
+      "128": "icons/icons8-google-code-128.png"
+    }
+  },
+  "permissions": ["storage"],
+  "host_permissions": ["<all_urls>"]
+}
