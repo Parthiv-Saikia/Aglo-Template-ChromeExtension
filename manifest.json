@@ -11,6 +11,15 @@
       "128": "icons/icons8-google-code-128.png"
     }
   },
-  "permissions": ["storage"],
-  "host_permissions": ["<all_urls>"]
+  "icons": {
+    "16": "icons/icons8-google-code-16.png",
+    "48": "icons/icons8-google-code-48.png",
+    "128": "icons/icons8-google-code-128.png"
+  },
+  "permissions": [
+    "storage"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ]
 }
