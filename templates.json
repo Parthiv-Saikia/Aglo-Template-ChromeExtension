@@ -8,6 +8,10 @@
         "file": "templates/Djkstra_priority_queue.cpp"
     },
     {
+        "name": "Min Priority Queue",
+        "file": "templates/Min_PriorityQueue.cpp"
+    },
+    {
         "name": "DSU",
         "file": "templates/DSU.cpp"
     },
