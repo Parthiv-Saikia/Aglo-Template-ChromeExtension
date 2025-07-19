@@ -8,6 +8,10 @@
         "file": "templates/Djkstra_priority_queue.cpp"
     },
     {
+        "name": "DSU",
+        "file": "templates/DSU.cpp"
+    },
+    {
         "name": "Number Of Connected Components",
         "file": "templates/NumberofConnectedComponents.cpp"
     },
