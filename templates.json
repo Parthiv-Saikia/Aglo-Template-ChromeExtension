@@ -12,6 +12,10 @@
         "file": "templates/Min_PriorityQueue.cpp"
     },
     {
+        "name": "Trie",
+        "file": "templates/Trie.cpp"
+    },
+    {
         "name": "DSU",
         "file": "templates/DSU.cpp"
     },
