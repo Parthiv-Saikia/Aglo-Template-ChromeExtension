@@ -8,6 +8,10 @@
         "file": "templates/Djkstra_priority_queue.cpp"
     },
     {
+        "name": "Segment Tree (Sum)",
+        "file": "templates/SegTree Sum.cpp"
+    },
+    {
         "name": "Min Priority Queue",
         "file": "templates/Min_PriorityQueue.cpp"
     },
